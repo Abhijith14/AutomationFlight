@@ -3,7 +3,7 @@
 This app is made specifically for https://www.makemytrip.com/
 
 Requirements:
-  1. Chrome driver - (Can be installed from : https://chromedriver.chromium.org/)   PS: CHECK FOR THE VERTION AND DOWNLOAD THE SUITABLE ONE
+  1. Chrome driver - (Can be installed from : https://chromedriver.chromium.org/)   PS: CHECK FOR THE VERSION AND DOWNLOAD THE SUITABLE ONE
   2. install all packages from requiremnts.txt
   
 Give the proper location for Chrome Driver installed path at line 5
